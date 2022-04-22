@@ -1,0 +1,17 @@
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\bin\Debug\Project.exe.config
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\bin\Debug\Project.exe
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\bin\Debug\Project.pdb
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Form1.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Signin.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Signup.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.exe
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.pdb
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Homepage.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Newnotes.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Readnotes.resources
+C:\Users\amonk\Documents\ANU\Computer Programming 2\Code\Project\obj\Debug\Project.Reader.resources
